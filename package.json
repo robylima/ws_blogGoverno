@@ -1,0 +1,20 @@
+{
+  "name": "ws_blogGoverno",
+  "version": "1.0.0",
+  "description": "Web Scraping do Blog .gov",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robylima/ws_blogGoverno.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/robylima/ws_blogGoverno/issues"
+  },
+  "homepage": "https://github.com/robylima/ws_blogGoverno#readme"
+}
